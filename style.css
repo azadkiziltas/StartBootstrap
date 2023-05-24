@@ -1,0 +1,25 @@
+.navbar {
+    background: #2c3e50;
+}
+
+.main {
+    background-color: #31bc9c;
+}
+.about {
+    background-color: #31bc9c;
+}
+.portfolio-header {
+    color: #2c3e50;
+}
+.contact-me-header {
+    color: #2c3e50;
+}
+.send-button {
+    background: #31bc9c;
+}
+.send-button:hover {
+    background: #31bc9c;
+}
+.footer {
+    background: #2c3e50;
+}
